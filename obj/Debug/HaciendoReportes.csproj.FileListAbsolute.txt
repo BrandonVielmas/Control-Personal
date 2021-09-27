@@ -1,0 +1,13 @@
+C:\Users\Brandon\source\repos\HaciendoReportes\bin\Debug\HaciendoReportes.exe.config
+C:\Users\Brandon\source\repos\HaciendoReportes\bin\Debug\HaciendoReportes.exe
+C:\Users\Brandon\source\repos\HaciendoReportes\bin\Debug\HaciendoReportes.pdb
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.Properties.Resources.resources
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.exe
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.pdb
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.Presentacion.frmMenuPrincipal.resources
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.Presentacion.ctrPersonal.resources
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.csproj.AssemblyReference.cache
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.Presentacion.frmTomaAsistencia.resources
+C:\Users\Brandon\source\repos\HaciendoReportes\obj\Debug\HaciendoReportes.Presentacion.ctrUsuarios.resources
