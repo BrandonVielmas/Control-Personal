@@ -10,7 +10,7 @@ namespace HaciendoReportes.Datos
 {
     public class ConexionMaestra
     {
-        public static string conexion = "Data Source = DESKTOP-1LA75V6; Initial Catalog = BAVTCORP; Integrated Security = true";
+        public static string conexion = "Data Source = tuServidor; Initial Catalog = tuDb; Integrated Security = true";
         public static SqlConnection conectar = new SqlConnection(conexion);
 
         public static void Abrir()
